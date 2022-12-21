@@ -2,7 +2,7 @@
 TecJP/TecJP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![image](https://github-readme-stats.vercel.app/api?username=tecjp&theme=dark&show_icons=true)
+![image](https://github-readme-stats.vercel.app/api?username=jp-freitas&theme=dark&show_icons=true)
 ## Libs/Tooling/Languages
 ![image](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
