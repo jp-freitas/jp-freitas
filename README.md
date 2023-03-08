@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 ## Stats
 ![image](https://github-readme-stats.vercel.app/api?username=jp-freitas&theme=radical&show_icons=true)
 ## Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jp-freitas&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jp-freitas&layout=compact)
 ## Libs/Tooling/Languages
 ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
