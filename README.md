@@ -3,7 +3,7 @@ jp-freitas is a ✨ special ✨ repository because its `README.md` (this file) a
 You can click the Preview link to take a look at your changes.
 --->
 ## Stats
-![image](https://github-readme-stats.vercel.app/api?username=jp-freitas&theme=gruvbox&show_icons=true)
+![image](https://github-readme-stats.vercel.app/api?username=jp-freitas&theme=tokyonight&show_icons=true)
 ## Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jp-freitas&layout=compact)
 ## Libs/Tooling/Languages
